@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaimamw1
+- 👋 Hi, I’m @aaimam1
 - 👀 I’m interested in bioinformatics.
 - 🌱 I’m currently learning to grow proficient in Python.
 - 💞️ I’m looking to collaborate on solving coding problems on Rosalind.
